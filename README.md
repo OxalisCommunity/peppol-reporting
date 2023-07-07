@@ -9,7 +9,7 @@ Transaction Statistics reporting and End User Statistics reporting of production
 ## Peppol Reporting Process
 ### Peppol End User Statistics Reporting Process
 It is the process of data gathering, data preparation, and data transmission by Service Provider to OpenPeppol.  
-Latest Peppol End User Statistics Specification: https://docs.peppol.eu/edelivery/specs/reporting/eusr/  (Peppol End User Statistics Reporting - v1.0.0)
+Latest Peppol End User Statistics Specification: https://docs.peppol.eu/edelivery/specs/reporting/eusr/  (Peppol End User Statistics Reporting - v1.1.0)
 
 ### Peppol Transaction Statistics Reporting Process
 It is the process of data gathering, data aggregation, and data transmission by Service Provider to OpenPeppol.  

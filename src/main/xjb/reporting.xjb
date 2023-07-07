@@ -20,9 +20,9 @@
                xmlns:xsd="http://www.w3.org/2001/XMLSchema"
                jaxb:version="2.0">
 
-    <jaxb:bindings schemaLocation="../xsd/peppol-end-user-statistics-reporting-1.0.0.xsd">
+    <jaxb:bindings schemaLocation="../xsd/peppol-end-user-statistics-reporting-1.1.0.xsd">
         <jaxb:schemaBindings>
-            <jaxb:package name="network.oxalis.peppol.reporting.jaxb.eusr.v100"/>
+            <jaxb:package name="network.oxalis.peppol.reporting.jaxb.eusr.v110"/>
         </jaxb:schemaBindings>
     </jaxb:bindings>
     <jaxb:bindings schemaLocation="../xsd/peppol-transaction-statistics-reporting-1.0.1.xsd">
